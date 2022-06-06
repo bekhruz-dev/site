@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: Macan,Arial;
+}
+
+.wrapper {
+  background-image: url(https://fiverr-res.cloudinary.com/image/upload/f_png,q_auto/v1/attachments/generic_asset/asset/2b2e0abb8a29000a31dc910da53530c3-1644931333078/404%20page%20-%204.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.wrapper .logo img {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.wrapper .content {
+  margin-left: 50px;
+  margin-top: 130px;
+}
+
+.wrapper .content .content-h3 {
+  width: 676px;
+  font-size: 40px;
+  line-height: 48px;
+  color: #fff;
+}
+
+.wrapper .content-h5 {
+  font-size: 28px;
+  line-height: 36px;
+  color: #fff;
+  width: 270px;
+  margin-top: 45px;
+}
+
+.wrapper .content-h5 span {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.hr {
+  width: 55px;
+  height: 3px;
+  background-color: #fff;
+  margin-top: 45px;
+}
+
+.formContainer {
+  margin-left: 50px;
+  margin-top: 25px;
+}
+
+.formContainer .form__input {
+  padding-top: -12px;
+  width: 540px;
+  height: 45px;
+  margin: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 8px 0 0 8px;
+  text-indent: 12px;
+  border: 0;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  font-size: 16px;
+  margin-top: -10px;
+}
+
+.formContainer .form__button {
+  width: 45px;
+  height: 45px;
+  background: #188652;
+  margin-left: -10px;
+  padding-top: -120px;
+  border-radius: 0 8px 8px 0;
+  cursor: pointer;
+  border: 0;
+  outline: none;
+}
+
+.sites-sec {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.sites-sec .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.sites-sec p {
+  color: #fff;
+}
+
+.sites-sec button {
+  width: 100px;
+  height: 30px;
+  background-color: #636e72;
+  color: #fff;
+  margin-left: 10px;
+  border-radius: 40px;
+}
+/*# sourceMappingURL=style.css.map */
